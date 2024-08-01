@@ -13,4 +13,6 @@ int main() {
 
     printf("O produto entre os dois números informados é %d", produto);
 
+    return 0;
+
 }
