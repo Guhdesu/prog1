@@ -7,7 +7,7 @@ int main() {
     printf("CALCULADORA DE VOLUME DO CILINDRO\n");
     printf("Qual a altura do cilindro?: ");
     scanf("%f", &altura);
-    printf("Qual o raio do clindro?: ");
+    printf("Qual o raio do cilindro?: ");
     scanf("%f", &raio);
 
     float volume = 3.14159 * pow(raio, 2) * altura;
