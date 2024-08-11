@@ -17,7 +17,7 @@ int main() {
     
     float montante = valorInicial*pow((1+taxa/100), tempo);
 
-    printf("O montante ao final do período de %d anos será de: %f", tempo, montante);
+    printf("O montante ao final do período de %f anos será de: %f", tempo, montante);
 
     return 0;
 
