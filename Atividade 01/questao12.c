@@ -10,7 +10,7 @@ int main() {
     printf("Olá, insira o comprimento do segundo cateto: ");
     scanf("%f", &c2);
     
-    float hipotenusa = sqrt(c1*c1+c2*c1);
+    float hipotenusa = sqrt(c1*c1+c2*c2);
 
     printf("A hipotenusa é %f", hipotenusa);
 
