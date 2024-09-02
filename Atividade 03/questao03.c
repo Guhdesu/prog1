@@ -3,7 +3,7 @@
 int main() {
 	int N;
 
-	printf("Digite o valor de N: ");
+	printf("Digite o valor da largura central: ");
 	scanf("%d", &N);
 
 	for (int i = 1; i <= N; i++) {
