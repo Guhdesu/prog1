@@ -4,7 +4,7 @@ int main() {
     int N;
 
     do {
-        printf("Digite o valor de N (deve ser >= 2): ");
+        printf("Digite o valor da altura (deve ser >= 2): ");
         scanf("%d", &N);
     } while (N < 2);
 
