@@ -16,6 +16,9 @@ int main() {
 	        printf("\n");
 	    }
 	    
+	    break;
+	    
+	    
 	    case 2:
 	    for (int i = 1; i <= altura; i++) {
 	        for (int j = 1; j <= 8; j++) {
@@ -32,6 +35,8 @@ int main() {
 	        }
 	        printf("\n");
 	    }
+	    
+	    break;
 	    
 	}
 
